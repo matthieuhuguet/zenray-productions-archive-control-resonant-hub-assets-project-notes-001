@@ -20,3 +20,15 @@
 - Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 12:40:37 +0200)
 
 > Mais en soit je sais pas ce que tu branles pour le HDA de la fontaine mais c'est surtout un aspect edge hard surface qu'il faut la texture fais le reste ... ton job sera surtout ensuite de faire l'eau identique go soit propre (4 October 2026, 12:40:37 +0200)
+## 4 October 2026, 13:02:21 +0200 : Prompt
+
+<!-- feedback-event:e4a781b0a8764dd7026fd050ac55d4434485404f29a48199b98df5802edb51e0 (4 October 2026, 13:02:21 +0200) -->
+- Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 13:02:21 +0200)
+
+> et un prompt similaire pour obtenir la height ? très simple genre depuis cet asset / img view génère la texture height similaire. Si plusieurs face texturé merci de proposer plusieurs pas de description de la texture dans le prompt reste généraliste puis note le dans le skill ensuite dans /zenray-houdini tu noteras deux choses avant de commencer un asset s'assurer que j'ai la sheet pour faire l'asset ou le component : ce prompt à me redonner suffit sinon : 4 views on a single clean sheet: front view, side view, top view, and 3/4 perspective view. s'assurer que je possède une référence pour la height indispensable pour copernicus pour créer la texture précisément... sinon me donner les deux prompts pour que j'utilise la génération d'image ou je fasse un concept art moi même. indispensable a mettre dans priorité 0. commence par noter ça au début du skill (4 October 2026, 13:02:21 +0200)
+
+## 4 October 2026, 13:03:00 +0200 : Decision & Rule
+
+- Project: control-resonant-hub-assets; kind: decision. (4 October 2026, 13:03:00 +0200)
+- Règle P0 inscrite dans zenray-houdini : validation stricte des deux pré-requis (planche 4 vues géométrie + référence height Copernicus) avant d'entamer le moindre asset sous Houdini. (4 October 2026, 13:03:00 +0200)
+- Si manquant, arrêt immédiat et transmission des deux prompts standards de génération d'image à Matthieu. (4 October 2026, 13:03:00 +0200)
