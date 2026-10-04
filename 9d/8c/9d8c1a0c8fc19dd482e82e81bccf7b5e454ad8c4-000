@@ -69,3 +69,13 @@
 ## 4 October 2026, 13:19:10 +0200 : Decision & Rule
 
 - Retrait immédiat de tout nom de panneau inutile, prompt multi-surfaces rendu 100 % générique et minimal. (4 October 2026, 13:19:10 +0200)
+## 4 October 2026, 13:43:16 +0200 : Prompt
+
+<!-- feedback-event:c920f410a8764dd7026fd050ac55d4434485404f29a48199b98df5802edb5211 (4 October 2026, 13:43:16 +0200) -->
+- Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 13:43:16 +0200)
+
+> Mais pourquoi est-ce que ça demande multi-sheet à chaque fois que je veux faire une texture ? ? (4 October 2026, 13:43:16 +0200)
+
+## 4 October 2026, 13:43:40 +0200 : Decision & Clarification
+
+- Suppression définitive de tout prompt multi-sheet pour les textures. Pour une texture, c'est toujours UNE seule image plein cadre (1:1 4096x4096). Si l'asset a plusieurs matières distinctes, on génère deux images séparées, jamais une planche découpée. (4 October 2026, 13:43:40 +0200)
