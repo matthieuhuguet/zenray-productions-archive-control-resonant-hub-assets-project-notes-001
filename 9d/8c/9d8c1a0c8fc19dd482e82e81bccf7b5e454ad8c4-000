@@ -39,3 +39,33 @@
 - Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 13:10:19 +0200)
 
 > Prompt Matthieu (4 October 2026) : Non mais on est bien d'accord que tu as bien indexé tout ces fichiers et mappé via /zenray-assets-v2 dans un dossier tmp ? right ? - Correction appliquee : rattachement de la session 8650ff01-823c-4f46-a9e4-ee9daa47ccba au projet, copie des 4 captures brutes, des 4 crops natifs et des 2 planches 4K dans /Users/zenray/.claude/tmp/tmp-control-resonant-hub-assets/ref/, mise a jour du manifeste ASSET_MANIFEST.md et declenchement de l archivage cloud Assets V2. (4 October 2026, 13:10:19 +0200)
+## 4 October 2026, 13:15:48 +0200 : Prompt
+
+<!-- feedback-event:82b3c109a8764dd7026fd050ac55d4434485404f29a48199b98df5802edb51f1 (4 October 2026, 13:15:48 +0200) -->
+- Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 13:15:48 +0200)
+
+> Non 1 ligne max la height de la texture affiché c'est tout ... ton texte est beaucoup trop verbeux (4 October 2026, 13:15:48 +0200)
+
+## 4 October 2026, 13:16:10 +0200 : Correction
+
+- Règle P0 ajustée dans zenray-houdini : 1 ligne max par prompt (height simple et multi-surfaces), zéro verbosité. (4 October 2026, 13:16:10 +0200)
+## 4 October 2026, 13:16:10 +0200 : Prompt
+
+<!-- feedback-event:9a41c210a8764dd7026fd050ac55d4434485404f29a48199b98df5802edb51fa (4 October 2026, 13:16:10 +0200) -->
+- Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 13:16:10 +0200)
+
+> + indiqué le format : 1:1 4096x4096 go (4 October 2026, 13:16:10 +0200)
+
+## 4 October 2026, 13:16:50 +0200 : Decision & Rule
+
+- Spécification du format 1:1 4096x4096 intégrée dans les prompts height simples et multi-surfaces de la règle P0 de zenray-houdini. (4 October 2026, 13:16:50 +0200)
+## 4 October 2026, 13:18:39 +0200 : Prompt
+
+<!-- feedback-event:b159f310a8764dd7026fd050ac55d4434485404f29a48199b98df5802edb5204 (4 October 2026, 13:18:39 +0200) -->
+- Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 13:18:39 +0200)
+
+> pitié tu y es presque mais tu continue de mettre des infos qui servent à rien: Panel 1 = exterior, Panel 2 = interior, Panel 3 = border, (4 October 2026, 13:18:39 +0200)
+
+## 4 October 2026, 13:19:10 +0200 : Decision & Rule
+
+- Retrait immédiat de tout nom de panneau inutile, prompt multi-surfaces rendu 100 % générique et minimal. (4 October 2026, 13:19:10 +0200)
