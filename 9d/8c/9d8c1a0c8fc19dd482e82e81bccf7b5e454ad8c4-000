@@ -79,3 +79,13 @@
 ## 4 October 2026, 13:43:40 +0200 : Decision & Clarification
 
 - Suppression définitive de tout prompt multi-sheet pour les textures. Pour une texture, c'est toujours UNE seule image plein cadre (1:1 4096x4096). Si l'asset a plusieurs matières distinctes, on génère deux images séparées, jamais une planche découpée. (4 October 2026, 13:43:40 +0200)
+## 4 October 2026, 13:50:29 +0200 : Prompt
+
+<!-- feedback-event:d840e510a8764dd7026fd050ac55d4434485404f29a48199b98df5802edb5220 (4 October 2026, 13:50:29 +0200) -->
+- Project: control-resonant-hub-assets; kind: prompt. (4 October 2026, 13:50:29 +0200)
+
+> From this reference image / asset, generate the seamless 16-bit greyscale height map texture, 1:1, 4096x4096, no lighting, no color, no shadows. parfait enregistre (4 October 2026, 13:50:29 +0200)
+
+## 4 October 2026, 13:51:10 +0200 : Decision & Canonical Prompt
+
+- Enregistrement du prompt canonique exact validé par Matthieu pour la height Copernicus dans `zenray-houdini/SKILL.md` et synchronisation générale. (4 October 2026, 13:51:10 +0200)
