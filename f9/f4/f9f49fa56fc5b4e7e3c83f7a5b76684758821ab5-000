@@ -1,0 +1,71 @@
+{
+ "schemaVersion": 1,
+ "projectId": "control-resonant-hub-assets",
+ "scannedAt": "2026-10-07T08:30:25.776Z",
+ "conversations": [
+  {
+   "projectId": "control-resonant-hub-assets",
+   "lines": 2,
+   "work": 2,
+   "prompts": 0,
+   "first": "2026-10-04T11:11:41.773Z",
+   "last": "2026-10-04T11:52:37.494Z",
+   "strength": "weak",
+   "conversationId": "gemini:8650ff01-823c-4f46-a9e4-ee9daa47ccba",
+   "provider": "gemini",
+   "sessionId": "8650ff01-823c-4f46-a9e4-ee9daa47ccba",
+   "title": "Conversation Gemini 8650ff01",
+   "updatedAt": "2026-10-04T12:00:51.191Z",
+   "bytes": 35381248,
+   "boundProject": "control-resonant-hub-assets"
+  },
+  {
+   "projectId": "control-resonant-hub-assets",
+   "lines": 1,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-04T10:44:11.198Z",
+   "last": "2026-10-04T10:44:11.198Z",
+   "strength": "weak",
+   "conversationId": "gemini:d0b167b1-b03d-4ac3-a191-817904d44987",
+   "provider": "gemini",
+   "sessionId": "d0b167b1-b03d-4ac3-a191-817904d44987",
+   "title": "Conversation Gemini d0b167b1",
+   "updatedAt": "2026-10-04T11:51:54.534Z",
+   "bytes": 35258368,
+   "boundProject": "control-resonant-hub-assets"
+  },
+  {
+   "projectId": "control-resonant-hub-assets",
+   "lines": 1,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-04T10:41:18.857Z",
+   "last": "2026-10-04T10:41:18.857Z",
+   "strength": "weak",
+   "conversationId": "gemini:d70d9864-f346-45f4-94d1-f8a907c03ece",
+   "provider": "gemini",
+   "sessionId": "d70d9864-f346-45f4-94d1-f8a907c03ece",
+   "title": "Conversation Gemini d70d9864",
+   "updatedAt": "2026-10-04T10:42:04.533Z",
+   "bytes": 25825280,
+   "boundProject": null
+  },
+  {
+   "projectId": "control-resonant-hub-assets",
+   "lines": 1,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-04T10:22:14.961Z",
+   "last": "2026-10-04T10:22:14.961Z",
+   "strength": "weak",
+   "conversationId": "gemini:b7c1a68d-eeda-444d-a264-7ef31ecc218d",
+   "provider": "gemini",
+   "sessionId": "b7c1a68d-eeda-444d-a264-7ef31ecc218d",
+   "title": "Conversation Gemini b7c1a68d",
+   "updatedAt": "2026-10-04T10:23:05.316Z",
+   "bytes": 27459584,
+   "boundProject": null
+  }
+ ]
+}
