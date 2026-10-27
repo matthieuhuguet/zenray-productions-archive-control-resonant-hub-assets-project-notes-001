@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "control-resonant-hub-assets",
- "scannedAt": "2026-10-26T18:59:59.851Z",
+ "scannedAt": "2026-10-27T01:00:35.753Z",
  "conversations": [
   {
    "projectId": "control-resonant-hub-assets",
@@ -14,8 +14,8 @@
    "conversationId": "gemini:8650ff01-823c-4f46-a9e4-ee9daa47ccba",
    "provider": "gemini",
    "sessionId": "8650ff01-823c-4f46-a9e4-ee9daa47ccba",
-   "title": "donne moi une sheet des 4 assets cropés sur l'asset '/Users/zenray/Desktop/Screenshot 2026-10-04 at 11.55.47 (2).png' '/Users/zenray/Desktop",
-   "updatedAt": "2026-10-04T12:00:11.681909+00:00",
+   "title": "Conversation Gemini 8650ff01",
+   "updatedAt": "2026-10-04T12:00:51.191Z",
    "bytes": 35381248,
    "boundProject": "control-resonant-hub-assets"
   },
@@ -30,8 +30,8 @@
    "conversationId": "gemini:d0b167b1-b03d-4ac3-a191-817904d44987",
    "provider": "gemini",
    "sessionId": "d0b167b1-b03d-4ac3-a191-817904d44987",
-   "title": "'/Users/zenray/Desktop/Screenshot 2026-10-04 at 11.49.01 (2).png' Lance houdini et reproduis l'asset commence par le crop setup un projet tm",
-   "updatedAt": "2026-10-04T11:51:18.197364+00:00",
+   "title": "Conversation Gemini d0b167b1",
+   "updatedAt": "2026-10-04T11:51:54.534Z",
    "bytes": 35258368,
    "boundProject": "control-resonant-hub-assets"
   },
@@ -47,7 +47,7 @@
    "provider": "gemini",
    "sessionId": "d70d9864-f346-45f4-94d1-f8a907c03ece",
    "title": "Conversation Gemini d70d9864",
-   "updatedAt": "2026-10-04T10:41:18.857676+00:00",
+   "updatedAt": "2026-10-04T10:42:04.533Z",
    "bytes": 25825280,
    "boundProject": null
   },
@@ -63,7 +63,7 @@
    "provider": "gemini",
    "sessionId": "b7c1a68d-eeda-444d-a264-7ef31ecc218d",
    "title": "Conversation Gemini b7c1a68d",
-   "updatedAt": "2026-10-04T10:22:14.961756+00:00",
+   "updatedAt": "2026-10-04T10:23:05.316Z",
    "bytes": 27459584,
    "boundProject": null
   },
